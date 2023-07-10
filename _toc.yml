@@ -1,0 +1,25 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: 1-intro/whatbci
+  sections:
+  - file: 1-intro/learning_objectives
+  - file: 2-bci/bci_loop
+- file: 2-bci/task
+- file: 2-bci/stimulation/intro_stim
+  sections:
+  - file: 2-bci/stimulation/modalities
+  - file: 2-bci/stimulation/stimuli
+  - file: 2-bci/stimulation/signals
+  - file: 2-bci/stimulation/trigcodes
+- file: 2-bci/data/intro_data
+  sections:
+  - file: 2-bci/data/preprocess
+  - file: 2-bci/data/features
+  - file: 2-bci/data/classification
+  - file: 2-bci/data/algorithms
+- file: 2-bci/onlinevoffline
+- file: 2-bci/other
