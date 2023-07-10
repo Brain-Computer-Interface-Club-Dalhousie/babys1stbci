@@ -5,9 +5,11 @@ format: jb-book
 root: intro
 chapters:
 - file: 1-intro/whatbci
+- file: 1-intro/whybci
+- file: 1-intro/howbci
+
   sections:
   - file: 1-intro/learning_objectives
-  - file: 2-bci/bci_loop
 - file: 2-bci/task
 - file: 2-bci/stimulation/intro_stim
   sections:
