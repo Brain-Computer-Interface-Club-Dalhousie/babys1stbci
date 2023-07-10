@@ -9,13 +9,13 @@ chapters:
 - file: 1-intro/whybci
 - file: 1-intro/howbci
   sections:
-- file: 2-bci/task
-- file: 2-bci/stimulation/intro_stim
-  sections:
-  - file: 2-bci/stimulation/modalities
-  - file: 2-bci/stimulation/stimuli
-  - file: 2-bci/stimulation/signals
-  - file: 2-bci/stimulation/trigcodes
+  - file: 2-bci/task
+  - file: 2-bci/stimulation/intro_stim
+    sections:
+    - file: 2-bci/stimulation/modalities
+    - file: 2-bci/stimulation/stimuli
+    - file: 2-bci/stimulation/signals
+    - file: 2-bci/stimulation/trigcodes
 - file: 2-bci/data/intro_data
   sections:
   - file: 2-bci/data/preprocess
