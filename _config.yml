@@ -1,8 +1,8 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: My sample book
-author: The Jupyter Book Community
+title: Baby's First BCI
+author: Brynn Harris-Shanks and Daniel Godfrey
 logo: babys1stlogo.png
 
 # Force re-execution of notebooks on each build.
@@ -20,20 +20,20 @@ bibtex_bibfiles:
   - references.bib
 
 # Information about where the book exists on the web
-repository:
-  url: https://github.com/executablebooks/jupyter-book  # Online location of your book
-  path_to_book: docs  # Optional path to your book, relative to the repository root
-  branch: master  # Which branch of the repository should be used when creating links (optional)
+#repository:
+  #url: https://github.com/executablebooks/jupyter-book  # Online location of your book
+  #path_to_book: docs  # Optional path to your book, relative to the repository root
+ # branch: master  # Which branch of the repository should be used when creating links (optional)
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
-  favicon                   : "images/NESC3505_favicon.png"  # A path to a favicon image
+  favicon                   : "images/brain.png"  # A path to a favicon image
   navbar_footer_text        : 'Powered by <a href="https://jupyterbook.org">Jupyter Book</a>'  # Will be displayed underneath the left navbar.
   # google_analytics_id       : G-1SNTM6T50K # A GA id that can be used to track book views.
   home_page_in_navbar       : true  # Whether to include your home page in the left Navigation Bar
   use_edit_page_button      : false  # Whether to add an "edit this page" button to pages. If `true`, repository information in repository: must be filled in
-  baseurl                   : "http://neuraldatascience.io"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
+  baseurl                   : "http://babys1stbci.io"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
   use_repository_button     : true
   use_issues_button         : true
 
