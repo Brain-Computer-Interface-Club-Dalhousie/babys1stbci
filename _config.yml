@@ -3,7 +3,7 @@
 
 title: Baby's First BCI
 author: Brynn Harris-Shanks and Daniel Godfrey
-logo: babys1stlogo.png
+logo: images/babys1stlogo.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
