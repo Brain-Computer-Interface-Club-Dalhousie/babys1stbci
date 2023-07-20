@@ -1,3 +1,3 @@
 # What is a BCI?
 
-add general definition of a bci
+A brain-computer interface (BCI) is a technology that allows people to perform tasks like pressing a button on a computer screen or moving a cursor, just by focusing their attention. It does this by collecting signals from a person's brain and then identifying patterns within those signals to translate them into commands that the computer can understand. It's almost like having a direct connection between your brain and the computer.
